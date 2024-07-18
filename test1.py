@@ -1,0 +1,7 @@
+def a_very_very_long_function_name_that_takes_up_really_much_space_bd(param):
+    pass
+
+
+test_variable_name = 42
+
+a_very_very_long_function_name_that_takes_up_really_much_space_bd(test_variable_name)
